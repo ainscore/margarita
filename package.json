@@ -1,0 +1,17 @@
+{
+  "name": "margs",
+  "version": "0.0.1",
+  "description": "CLI library",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha -u tdd"
+  },
+  "author": "",
+  "license": "ISC"
+}
