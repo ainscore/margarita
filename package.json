@@ -1,8 +1,8 @@
 {
-  "name": "margs",
+  "name": "margarita",
   "version": "0.0.1",
   "description": "CLI library",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "chai": "^3.5.0"
   },
